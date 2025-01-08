@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/c/Users/Dell/OneDrive - 南方科技大学/组会/Project/Code/main.py", line 2, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
